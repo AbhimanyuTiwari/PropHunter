@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "355136225085",
+    "project_id": "prophunt-ab3ee",
+    "storage_bucket": "prophunt-ab3ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355136225085:android:54606ea7490f77ec904f54",
+        "android_client_info": {
+          "package_name": "com.androginex.prophunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355136225085-po4pqos0taf5kt9rkgm7c2cd3ir0d576.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOEjrLveic0rt1P7NoMMV1RdDsNt4I-Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355136225085-po4pqos0taf5kt9rkgm7c2cd3ir0d576.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
