@@ -2,13 +2,24 @@
 
 ## Download App ![GitHub All Releases](https://img.shields.io/github/downloads/Thealphamerc/flutter_ecommerce_app/total?color=green)
 <a href="https://drive.google.com/file/d/1EDzQuBQ4td4ZdqVPue-GjFoJ07gXrEdD/view?usp=drive_link"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
-<img src="https://github.com/AbhimanyuTiwari/PropHunter/blob/main/screenshots/ss1.png?raw=true"  /> 
 
+  ![picture alt](https://firebasestorage.googleapis.com/v0/b/prophunt-ab3ee.appspot.com/o/ss1.png?alt=media "Landing")
 ## Android Screenshots
 
   #### HomePage #### 
-![picture alt](https://github.com/TheAlphamerc/flutter_ecommerce_app/blob/master/screenshots/screenshot_1.jpg?raw=true)
+  
+  ![picture alt](https://firebasestorage.googleapis.com/v0/b/prophunt-ab3ee.appspot.com/o/ss_2.png?alt=media "Home Page")
 
+
+  #### Search and Filter Options #### 
+  
+  ![picture alt](https://firebasestorage.googleapis.com/v0/b/prophunt-ab3ee.appspot.com/o/ss_3.png?alt=media "Filter Screen")
+
+  #### Property Details and Pdf #### 
+  
+  ![picture alt](https://firebasestorage.googleapis.com/v0/b/prophunt-ab3ee.appspot.com/o/ss_4.png?alt=media "Home Page")
+  
+    
 ## Features
 * Firebase Integration
 * Statemangement Using Provider
@@ -19,6 +30,7 @@
 * Connected to Admin App
 * Searching and Filter
 * Error Handling and Analytics
+* Used Pdf package to download boucher
 
 ## Directory Structure
 ```
